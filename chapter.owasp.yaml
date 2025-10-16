@@ -1,0 +1,28 @@
+leaders:
+  - name: Julian Barney Jaimes Rincon
+    email: julian.jaimes@owasp.org
+  - name: Carlos Carrascal Avendano
+    email: carlos.carrascal@owasp.org
+  - name: Danna Maria Gallo Suarez
+    email: danna.gallo@owasp.org
+  - name: Julieth Tatiana Castro Hernandez
+    email: julieth.castro@owasp.org
+  - name: Andrey Alejandro Nino Villamil
+    email: andrey.nino@owasp.org
+location:
+  country: Colombia
+  country_code: CO
+  region: Santander
+  city: Bucaramanga
+  latitude: 7.16698415
+  longitude: -73.1047294009737
+name: OWASP Bucaramanga
+repositories:
+  - name: www-chapter-bucaramanga
+    url: https://github.com/OWASP/www-chapter-bucaramanga
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bucaramanga
